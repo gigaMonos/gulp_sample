@@ -1,0 +1,32 @@
+{
+    "name": "gravity",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gigaMonos/figma-project.git"
+    },
+    "keywords": [
+        "scss",
+        "template",
+        "gulp",
+        "starter"
+    ],
+    "author": "gigaMonos",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gigaMonos/figma-project/issues"
+    },
+    "homepage": "https://github.com/gigaMonos/figma-project#readme",
+    "devDependencies": {
+        "del": "^6.0.0",
+        "gulp": "^4.0.2",
+        "gulp-sass": "^4.1.0",
+        "gulp-uglify-es": "^2.0.0",
+        "gulp-clean-css": "^4.3.0"
+    }
+}
